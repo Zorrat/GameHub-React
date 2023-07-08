@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 GameHubResources/
+env.json
+.env
 
 # Editor directories and files
 .vscode/*
